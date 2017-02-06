@@ -1,0 +1,30 @@
+{
+  "name": "lurl",
+  "version": "0.0.1",
+  "main": "lurl.js",
+  "readmeFilename": "README.md",
+  "description": "",
+  "main": "media_manager.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/interbred-monkey/lurl.git"
+  },
+  "keywords": [
+    "validate",
+    "validator",
+    "validation",
+    "legal",
+    "tester",
+    "url",
+    "uri",
+    "node.js",
+    "node",
+    "javascript"
+  ],
+  "author": "Interbred Monkey",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/interbred-monkey/lurl/issues"
+  }
+}

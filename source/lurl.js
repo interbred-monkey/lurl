@@ -24,7 +24,7 @@ function lurl (str, opts) {
   }
 
   // now we have our bits we can test for a valid url
-  var regex         = new RegExp("[a-z0-9-\\._\\\~:\\/\\?#\\[\\]@\\!\\$&'\\(\\)\\*\\+,;=]+%", "ig"),
+  var regex         = new RegExp("[a-z0-9-\\._\\\~:\\/\\?#\\[\\]@\\!\\$&'\\(\\)\\*\\+,;=%]+", "ig"),
       domain_regex  = new RegExp("[a-z0-9-\\.:]+", "ig")
 
   // remove all the chars from the protocol

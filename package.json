@@ -4,7 +4,7 @@
   "main": "lurl.js",
   "readmeFilename": "README.md",
   "description": "",
-  "main": "media_manager.js",
+  "main": "lurl.js",
   "dependencies": {},
   "repository": {
     "type": "git",
